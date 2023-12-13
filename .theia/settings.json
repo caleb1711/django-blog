@@ -1,5 +1,6 @@
 {
     "toolbar.showToolbar": false,
     "terminal.integrated.scrollback": 1200,
-    "editor.scrollbar.horizontal": "visible"
+    "editor.scrollbar.horizontal": "auto",
+    "editor.scrollbar.vertical": "visible"
 }
